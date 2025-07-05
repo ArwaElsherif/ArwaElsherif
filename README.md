@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!--
-**ArwaElsherif/ArwaElsherif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">I'm <strong>Arwa Hassan</strong>, a passionate <strong>Flutter Developer</strong> from <strong>Ismailia, Egypt 🇪🇬</strong>.</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩‍💻 About Me
+
+- 🎓 Computer Science student at Suez Canal University (2022–2026)
+- 📱 I build cross-platform mobile apps using Flutter and Dart
+- ☁️ I love working with Firebase and REST APIs
+- 🚀 Currently learning advanced Flutter architectures (BLoC, Clean Architecture)
+- 🌱 Always open to collaboration and new learning opportunities!
+
+---
+
+### 💻 Tech Stack I Work With
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArwaElsherif&show_icons=true&theme=tokyonight" alt="Arwa's GitHub stats"/>
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="left">
+  <a href="mailto:arwaelsherif7@gmail.com">arwaelsherif7@gmail.com</a> • 
+  <a href="https://linkedin.com/in/arwa-elsherif">LinkedIn</a> • 
+  <a href="https://github.com/ArwaElsherif">GitHub</a>
+</p>
