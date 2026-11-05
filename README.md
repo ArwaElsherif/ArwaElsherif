@@ -1,34 +1,37 @@
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">I'm <strong>Arwa Hassan</strong>, a passionate <strong>Flutter Developer</strong> from <strong>Ismailia, Egypt 🇪🇬</strong>.</p>
+<p align="left">
+  I'm <strong>Arwa Hassan</strong>, a Computer Science graduate and
+  <strong>Flutter Developer</strong> from <strong>Ismailia, Egypt 🇪🇬</strong>.
+</p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Computer Science student at Suez Canal University (2022–2026)
-- 📱 I build cross-platform mobile apps using Flutter and Dart
-- ☁️ I love working with Firebase and REST APIs
-- 🚀 Currently learning advanced Flutter architectures (BLoC, Clean Architecture)
-- 🌱 Always open to collaboration and new learning opportunities!
+- 🎓 Computer Science Graduate from Suez Canal University (2022–2026).
+- 📱 Passionate about building cross-platform mobile applications using Flutter and Dart.
+- ☁️ Experienced in integrating Firebase and RESTful APIs.
+- 🏗️ Interested in Clean Architecture and state management using BLoC/Cubit.
+- 🚀 Continuously improving my problem-solving and software development skills.
+- 🤝 Open to collaboration, freelance opportunities, and new challenges!
 
 ---
 
-### 💻 Tech Stack I Work With
+### 💻 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height:20px;" alt="flutter logo" />
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="height:20px;" alt="dart logo"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="height:20px;" alt="firebase logo"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="height:20px;" alt="git logo"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="height:24px;" alt="github logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="Dart" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
-
-
 
 ---
 
@@ -43,7 +46,7 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="mailto:arwaelsherif7@gmail.com">arwaelsherif7@gmail.com</a> • 
-  <a href="https://linkedin.com/in/arwa-elsherif">LinkedIn</a> • 
+  <a href="mailto:arwaelsherif7@gmail.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/arwa-elsherif">LinkedIn</a> •
   <a href="https://github.com/ArwaElsherif">GitHub</a>
 </p>
